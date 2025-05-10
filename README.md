@@ -1,4 +1,4 @@
-# UUID-MCP
+# UUID-MCP (Submodule)
 
 A simple UUID generator service implemented using the Model Context Protocol (MCP) Kotlin SDK.
 
